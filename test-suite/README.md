@@ -1,4 +1,4 @@
-## Introduction
+## Introduction GHBN
 
 This repository provides a docker based setup to locally run an integration of Zama FHEVM and Zama KMS (Key Management System).
 
