@@ -41,7 +41,7 @@ FHEVM ensures both confidentiality and composability, with the following guarant
 - **No impact on existing dApps and state:** Encrypted state co-exists alongside public one, and doesn't impact existing dApps.
 <br></br>
 
-### Table of contents
+### Table of contents DFG
 
 - [About](#about)
   - [What is FHEVM?](#what-is-fhevm)
