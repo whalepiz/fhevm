@@ -4,6 +4,6 @@ remote: origin
 target-branch: main
 chart-dirs:
   - charts
-helm-extra-args: --timeout 600s
+helm-extra-args: --timeout 6000s
 validate-maintainers: false
 chart-repos:
